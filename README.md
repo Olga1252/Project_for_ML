@@ -119,11 +119,11 @@ Docker Hub
 Docker-образ загружен в Docker Hub.
 
 Ссылка на Docker Hub:
+https://hub.docker.com/r/olga1789/credit-default-service
 
+docker pull olga1789/credit-default-service:latest
 
-
-
-
+RabbitMQ можно использовать для асинхронной обработки батч-заявок или очередей предсказаний.
 
 
 
